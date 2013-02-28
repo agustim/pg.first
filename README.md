@@ -1,0 +1,1 @@
+Simple test with JQueryMobile to use in PhoneGap
